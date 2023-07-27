@@ -5,7 +5,8 @@
 - 🏫 I'm pursuing a Master’s degree in Computer Science at University of Southern California, Los Angeles, California.
 - 🔭 I'm a Software Engineer 👨‍💻🎧 & Full Stack developer who is passionate about Web Development and Deep Learning.
 - 🌱 I'm currently learning Apache Kafka, Distributed Systems
-- 📫 How to reach me: [Link Text]([URL](https://www.linkedin.com/in/saketozarkar/))
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saketozarkar/)
+- 📝 Explore My Collection of Cool Projects! [Portfolio](https://saket-projects.webflow.io/)
 <!--
 **saketoz98/saketoz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
